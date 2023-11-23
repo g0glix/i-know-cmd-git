@@ -1,0 +1,1 @@
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKrKrj1ck6YMBdaXh8yKhNDwMA9GNB7JABhyTlO0sKD7 bogdanyantimirov@yandex.ru
